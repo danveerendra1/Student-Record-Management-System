@@ -112,12 +112,12 @@ java StudentManagementSystem
       STUDENT RECORD MANAGEMENT SYSTEM
 ==============================================
 
-1. Add Student
-2. View All Students
-3. Search Student
-4. Update Student
-5. Delete Student
-6. Exit
+      1. Add Student
+      2. View All Students
+      3. Search Student
+      4. Update Student
+      5. Delete Student
+      6. Exit
 
 Enter Your Choice:
 ```
