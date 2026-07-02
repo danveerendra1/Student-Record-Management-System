@@ -78,7 +78,7 @@ Task-2-Student-Record-Management-System
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/danveerendra1/Student-Record-Management-System
 ```
 
 ### 2. Open the Project
